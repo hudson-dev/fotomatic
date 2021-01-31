@@ -24,7 +24,7 @@ A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me 
 To run this project, visit this website: 
 
 ## Status
-Project is: _doe_
+Project is: _done_
 
 ## Inspiration
 All credit goes to [Codecademy](https://www.codecademy.com/learn)
