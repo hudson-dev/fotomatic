@@ -1,5 +1,5 @@
 # fotomatic
-> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/fotomatic/)
+> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/fotomatic/F1C1_start/)
 
 ## Table of contents
 - [Excursion](#Excursion)
